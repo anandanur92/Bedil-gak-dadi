@@ -1,3 +1,4 @@
 # Bedil-gak-dadi
 
-Bahasa unity
+* Bahasa unity
+* Proses penyempurnaan
